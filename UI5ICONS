@@ -2,7 +2,7 @@
 @font-face {
 	font-family: 'SAP Fiori Icons';
 	src:
-		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.woff2') format('woff2'),
+		url('https://github.com/AnnIvens/Anneleen/blob/main/SAP-icons.woff2') format('woff2'),
 	font-weight: normal;
 	font-style: normal;
 }
